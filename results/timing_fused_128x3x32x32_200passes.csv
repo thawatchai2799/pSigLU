@@ -1,0 +1,9 @@
+variant,median_ms,q1_ms,q3_ms
+relu,1.1904,1.0373,1.2155
+silu,0.9855,0.9679,1.0148
+laplu_eager,2.0448,1.9712,2.1140
+laplu_customgrad,2.0443,1.9966,2.1063
+laplu_jit,1.1472,0.9951,1.1691
+psiglu_eager,1.9978,1.5798,2.0713
+psiglu_jit_pow,1.1520,1.0468,1.2442
+psiglu_jit_rational,1.1556,1.0263,1.2223

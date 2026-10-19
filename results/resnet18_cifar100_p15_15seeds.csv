@@ -1,0 +1,16 @@
+dataset,activation,seed,final_acc,best_acc,seconds
+cifar100,psiglup15,0,0.7678,0.7683,4565.1
+cifar100,psiglup15,1,0.7624,0.7637,4569.6
+cifar100,psiglup15,2,0.7656,0.7666,4551.5
+cifar100,psiglup15,3,0.7602,0.7602,4564.5
+cifar100,psiglup15,4,0.7604,0.7611,4549.0
+cifar100,psiglup15,5,0.7605,0.7626,4541.7
+cifar100,psiglup15,6,0.7602,0.7638,4530.3
+cifar100,psiglup15,7,0.7594,0.7599,4534.8
+cifar100,psiglup15,8,0.7647,0.7654,4562.8
+cifar100,psiglup15,9,0.764,0.764,4531.4
+cifar100,psiglup15,10,0.7632,0.7651,4541.6
+cifar100,psiglup15,11,0.7631,0.7634,4557.8
+cifar100,psiglup15,12,0.764,0.7643,4548.5
+cifar100,psiglup15,13,0.7598,0.7601,4565.8
+cifar100,psiglup15,14,0.7629,0.763,4617.3
